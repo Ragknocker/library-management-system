@@ -1,0 +1,23 @@
+# Compiled bytecode
+bin/
+*.class
+
+# Log files and scratch outputs
+*.log
+sources.txt
+.system_generated/
+
+# OS and IDE Metadata
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Temporary SQLite lock/journal files (keeps the pre-seeded library.db)
+*.db-journal
+*.db-wal
+*.db-shm
